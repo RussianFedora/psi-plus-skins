@@ -1,4 +1,4 @@
-%define rev 20130124gitac60c0f
+%define rev 20130124gitaa304d7
 
 Name:           psi-plus-skins
 Version:        0.16
@@ -30,7 +30,7 @@ mkdir -p $RPM_BUILD_ROOT%{_datadir}/psi-plus/
 %{_datadir}/psi-plus/skins
 
 %changelog
-* Thu Jan 24 2013 Ivan Romanov <drizt@land.ru> - 2:0.16-0.1.20130124gitac60c0f.R
+* Thu Jan 24 2013 Ivan Romanov <drizt@land.ru> - 2:0.16-0.1.20130124gitaa304d7.R
 - updated to 20130124gitac60c0f
 - dropped %%defattr
 - source tarball moved to i-net
