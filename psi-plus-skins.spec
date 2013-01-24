@@ -9,7 +9,7 @@ Summary:        Skins for Psi+
 
 License:        Unknown
 URL:            http://code.google.com/p/psi-dev/
-Source0:        http://files.psi-plus.com/sources/%{name}-%{version}-%{rev}.gz
+Source0:        http://files.psi-plus.com/sources/%{name}-%{version}-%{rev}.tar.gz
 Source1:        generate-tarball.sh
 
 BuildRequires:  tar
